@@ -68,11 +68,11 @@ Kelompok 9 :
    - name: mengganti konfigurasi conf local part2
      replace:
       path: /etc/bind/named.conf.local
-      regexp: '/etc/bind/vm/115.168.192.in-addr.arpa'
-      replace: '/var/www/html/dev/landing/115.168.192.in-addr.arpa'
-   - name: copy file 115.168.192.in-addr.arpa
+      regexp: '/etc/bind/vm/1.168.192.in-addr.arpa'
+      replace: '/var/www/html/dev/landing/1.168.192.in-addr.arpa'
+   - name: copy file 1.168.192.in-addr.arpa
      copy:
-      src: /etc/bind/vm/115.168.192.in-addr.arpa
+      src: /etc/bind/vm/1.168.192.in-addr.arpa
       dest: /var/www/html/dev/landing
    - name: copy file resolv.conf
      copy:
