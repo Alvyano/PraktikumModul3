@@ -122,7 +122,7 @@ Kelompok 9 :
 
 ![13](https://user-images.githubusercontent.com/80197844/146380650-e4965b80-398a-4545-abe1-2d019108baff.PNG)
 
-- Open Change Adaptor Settings (in the case we use Windows), uncheck internet protocol version (TCP/IPv6)
+- Open Change Adaptor Settings (in the case we use Windows and LAN) thats why we choosed ethernet not WiFi. uncheck internet protocol version (TCP/IPv6)
 
 ![14](https://user-images.githubusercontent.com/80197844/146380726-cf15d7a4-d9f6-4e91-ae33-857b8734693d.PNG)
 
