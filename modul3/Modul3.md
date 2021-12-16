@@ -12,6 +12,8 @@ Kelompok 9 :
  
 ![](Praktikum3/1.PNG)
 
+![](Praktikum3/2.PNG)
+
 ```
  ---
 - hosts: all
@@ -23,8 +25,6 @@ Kelompok 9 :
          - bind9
          - dnsutils
 ```
-
-![](Praktikum3/2.PNG)
 
 - After going to the laravel.yml web directory. The next step is to re-install
 
