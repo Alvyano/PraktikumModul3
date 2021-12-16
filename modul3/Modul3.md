@@ -30,7 +30,7 @@ Kelompok 9 :
          - dnsutils
 ```
 
-- Then Create a file e config.yml
+- Then Create a file e config1.yml
 
 ![](Praktikum3/4.PNG)
 
