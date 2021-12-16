@@ -5,7 +5,7 @@
 
  - The first step is to go to the directory using ansible
  
-![](Praktikum3/1.png)
+![](Praktikum3/1.PNG)
 
 ![](Praktikum3/2.PNG)
 
