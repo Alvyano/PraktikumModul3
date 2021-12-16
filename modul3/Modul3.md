@@ -12,12 +12,6 @@ Kelompok 9 :
  
 ![](Praktikum3/1.PNG)
 
-![](Praktikum3/2.PNG)
-
-- After going to the laravel.yml web directory. The next step is to re-install
-
-![](Praktikum3/3.PNG)
-
 ```
  ---
 - hosts: all
@@ -30,13 +24,15 @@ Kelompok 9 :
          - dnsutils
 ```
 
+![](Praktikum3/2.PNG)
+
+- After going to the laravel.yml web directory. The next step is to re-install
+
+![](Praktikum3/3.PNG)
+
 - Then Create a file e config1.yml
 
 ![](Praktikum3/4.PNG)
-
-- Perform the installation using the command and script below
-
-![](Praktikum3/5.PNG)
 
 ```
  ---
@@ -89,6 +85,10 @@ Kelompok 9 :
    - name: restart bind9
      action: service name=bind9 state=restarted
 ```
+
+- Perform the installation using the command and script below
+
+![](Praktikum3/5.PNG)
 
 - Add subdomain to /etc/hosts
 
