@@ -2,6 +2,11 @@
 
 # Study Case
 
+```
+Kelompok 9 : 
+1. Difa Taufiqurahman 1202199005
+2. Alvyano Rizqilla 1202190035
+```
 
  - The first step is to go to the directory using ansible
  
