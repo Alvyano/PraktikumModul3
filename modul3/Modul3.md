@@ -106,6 +106,32 @@ Kelompok 9 :
 
 ![](Praktikum3/9.PNG)
 
+- Open and edit vm.local in directory /etc/nginx/sites-enabled/
+
+![10](https://user-images.githubusercontent.com/80197844/146380068-2e8dafd0-296d-4622-9e44-8f1b4b52c430.PNG)
+
+- Edit vm.local add "dev.www.vm.local;"
+
+![11](https://user-images.githubusercontent.com/80197844/146380174-bb74e16e-b0a7-4b27-95da-2ba549b3fea8.PNG)
+
+- Open and edit vm.local in directory /etc/bind/vm/
+
+![12](https://user-images.githubusercontent.com/80197844/146380489-d0c2673c-23a6-4f04-a9fc-9abe2454d9e1.PNG)
+
+- Restart all packages
+
+![13](https://user-images.githubusercontent.com/80197844/146380650-e4965b80-398a-4545-abe1-2d019108baff.PNG)
+
+- Open Change Adaptor Settings (in the case we use Windows), uncheck internet protocol version (TCP/IPv6)
+
+![14](https://user-images.githubusercontent.com/80197844/146380726-cf15d7a4-d9f6-4e91-ae33-857b8734693d.PNG)
+
+- Open internet protocol version (TCP/IPv4) properties, change DNS with ip like a image
+
+![15](https://user-images.githubusercontent.com/80197844/146381010-3ca11b8a-07de-49cb-83e4-1fce9f8228f6.PNG)
+
+- and check vm.local/ in the browser
+
 ![](Praktikum3/10.PNG)
 
 
