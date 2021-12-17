@@ -130,8 +130,14 @@ Kelompok 9 :
 
 ![15](https://user-images.githubusercontent.com/80197844/146381010-3ca11b8a-07de-49cb-83e4-1fce9f8228f6.PNG)
 
-- and check vm.local/ in the browser
+- and check dev.vm.local/ in the browser
 
-![](Praktikum3/10.PNG)
+![18 fix](https://user-images.githubusercontent.com/80197844/146473852-6401d56d-58ab-4886-9e40-431fb5c091f9.PNG)
+
+- dev.vm.local/blog
+
+![19](https://user-images.githubusercontent.com/80197844/146473872-80563c46-0466-4a21-b149-4508c341c340.PNG)
+
+
 
 
